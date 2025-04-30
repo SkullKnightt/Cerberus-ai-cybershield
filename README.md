@@ -102,14 +102,7 @@ Cerebrus combines several powerful techniques for comprehensive analysis:
     *   Queues detected items for analysis using other Cerebrus components.
     *   **Benefit:** Enables proactive detection of threats as they emerge on a monitored system.
 
-8.  **🖥️ Flexible Interfaces:**
-    *   **Command-Line Tools:** For prediction, batch processing, and model evaluation.
-    *   **Web Application:** A Flask-based UI for user-friendly file uploads and viewing results.
-    *   **API Endpoints:** Allow programmatic integration with other security tools or workflows.
 
-9.  **⚙️ Modular Design:** Built with distinct Python modules for different functionalities, facilitating maintenance and future extensions.
-
----
 
 ## Architecture
 
