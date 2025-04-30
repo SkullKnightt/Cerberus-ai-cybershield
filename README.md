@@ -116,7 +116,7 @@ Cerebrus combines several powerful techniques for comprehensive analysis:
 Cerebrus employs a multi-stage pipeline to analyze files:
 
 <p style="background: white; ">
-   <img src="gaj-submission\diagram.svg" alt="Diagram">
+   <img src="diagram.svg" alt="Diagram">
 </p>
 
 ---
