@@ -116,7 +116,7 @@ Cerebrus combines several powerful techniques for comprehensive analysis:
 Cerebrus employs a multi-stage pipeline to analyze files:
 
 <p style="background: white; ">
-   <img src="https://github.com/daemonX10/CEREBUS-AI-CyberShield/raw/main/Untitled%20diagram-2025-04-14-053203.svg" alt="Diagram">
+   <img src="gaj-submission\diagram.svg" alt="Diagram">
 </p>
 
 ---
